@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @yi64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### hi! my name is vlad, that's pronounced /vlæd/. 👋
 
-<!---
-yi64/yi64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+i live in the russia, but also speak english. i'm currently studying in sirius lyceum 🎓 at computer science and physics but i'm also considering perusing linguistics. in the future i want to travel around the world bringing technologies like machine learning, web development to places which could use it the most. 😎
+
+
+<a href="https://discord.gg/GncvWvyQqt">
+    <img src="https://discordapp.com/api/guilds/929312066957881354/widget.png?style=shield" alt="Discord Server">
+</a>
+<a href="https://yi6.ru/?ref=github">
+    <img src="https://img.shields.io/badge/-yi6.ru-hotpink?style=flat&logo=Flask" alt="Discord Server">
+</a>
